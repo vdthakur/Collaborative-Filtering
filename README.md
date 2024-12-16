@@ -15,7 +15,7 @@ This repository contains a Python script that implements a collaborative filteri
 **Files:**
 - `yelp_train.csv`: Training dataset containing existing user-business ratings.
 - `yelp_val.csv`: Validation dataset for which the script generates predictions.
-- `task2_1.csv`: Output file containing `(user_id, business_id, predicted_rating)`.
+- `cf_predictions.csv`: Output file containing `(user_id, business_id, predicted_rating)`.
 
 ## Data Format
 
