@@ -71,6 +71,7 @@ For each `(user, business)` pair in the validation dataset, the script predicts 
 **Running the Script:**
 ```bash
 spark-submit task2.py yelp_train.csv yelp_val.csv cf_predictions.csv
+```
 
 Here:  
 - **yelp_train.csv** is the training data.  
